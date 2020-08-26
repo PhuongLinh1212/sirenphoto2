@@ -7,20 +7,20 @@
     "inter_main": "",
     "onlyAdmod": true,
     "onlyFB": false
-  }, 
+  },
   "app_exists": {
     "id": "com.videocall.bts.btsmessenger.btscall.callbts.btsidol",
     "is_exists": true,
     "is_show_more": true
   },
   "apps": [
-   {
+    {
       "id": "com.new.siren.head.photo.editor.linh",
       "icon": "https://lh3.googleusercontent.com/M9-JN7mrP8gNPdYBLp0BE4x5DEwoiU8WSRuAsZguddFGWkow-r5LSK7ghOGhXZUsNg=s360",
       "name": "Siren Head Camera Photo Editor",
       "des": "Hello siren head camera effects fans. Siren head photo editor is our new free app that provides creepy siren head effects for your photos."
-   },
-   {
+    },
+    {
       "id": "com.sirenscarychat.headvideocall.prank.linh",
       "icon": "https://lh3.googleusercontent.com/DM-UpEtm7DYaezidGwBIGb2v7XTmPsBDai4yR9mJ7129m8tTt9cR_oIAbNFdWV8oQ74Z=s360",
       "name": "Call From Siren Head Prank simulation",
