@@ -1,15 +1,15 @@
 {
   "ads": {
     "id_app": "",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-3399710561924220/1766097020",
+    "inter_setting": "ca-app-pub-3399710561924220/9819206231",
+    "banner_main": "ca-app-pub-3399710561924220/7193042891",
+    "inter_main": "ca-app-pub-3399710561924220/4448100680",
     "onlyAdmod": true,
     "onlyFB": false
   },
   "app_exists": {
-    "id": "com.videocall.bts.btsmessenger.btscall.callbts.btsidol",
+    "id": "com.new.siren.head.photo.editor.free",
     "is_exists": true,
     "is_show_more": true
   },
